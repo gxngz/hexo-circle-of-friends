@@ -88,7 +88,7 @@ EXTRA_FRIENPAGE_LINK = [
 DATABASE = "leancloud"
 
 # 部署方式，可选项：github，server，docker；默认为github
-DEPLOY_TYPE = "github"
+DEPLOY_TYPE = "docker"
 
 ################################请修改以上内容################################
 
